@@ -36,7 +36,7 @@ public class QDH {
             5306,
             5748,
     };
-    public int[] SSP = {
+    public int[] SSPp = {
             1,
             8,
             295,
