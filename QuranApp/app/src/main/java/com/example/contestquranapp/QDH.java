@@ -3,7 +3,7 @@ package com.example.contestquranapp;
 import java.util.List;
 
 
-public class QD {
+public class QDH {
     public int [] PSP = {
             1,
             150,
