@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 public class CustomAdapter extends ArrayAdapter<String> {
 
-    String[] dataa;
+    String[] data;
 
     public CustomAdapter(@NonNull Context context, int resource, String[] data) {
         super(context, resource, data);
