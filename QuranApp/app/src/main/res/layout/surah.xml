@@ -27,14 +27,14 @@
                 android:id="@+id/surahName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView"
+                android:text="@string/textview"
                 android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/fullsurah"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="content"
+                android:text="@string/content"
                 android:textSize="24sp" />
         </LinearLayout>
     </ScrollView>

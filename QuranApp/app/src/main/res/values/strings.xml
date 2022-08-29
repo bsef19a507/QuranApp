@@ -2,4 +2,8 @@
     <string name="app_name">MyQuranApp</string>
     <string name="Quran">Holy Quran</string>
     <string name="Surah">Surah Index</string>
+    <string name="textview">txtview</string>
+    <string name="content">contentvalue</string>
+    <string name="surahayat">surahayat</string>
+    <string name="ayattrjama">ayattrjama</string>
 </resources>
