@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project09/QuranApp/app/src/main/res/layout/activity_book.xml" value="0.17760416666666667" />
+        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/all_surah_names.xml" value="0.23854166666666668" />
+        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/header.xml" value="0.22826086956521738" />
+        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/surah.xml" value="0.23854166666666668" />
+        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/surah_customized_view.xml" value="0.21105072463768115" />
+        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/surahname.xml" value="0.23854166666666668" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

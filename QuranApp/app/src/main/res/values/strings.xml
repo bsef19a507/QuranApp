@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ContestQuranApp</string>
+    <string name="app_name">MyQuranApp</string>
+    <string name="Quran">Holy Quran</string>
+    <string name="Surah">Surah Index</string>
 </resources>
