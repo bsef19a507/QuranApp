@@ -1,9 +1,13 @@
 <resources>
-    <string name="app_name">MyQuranApp</string>
-    <string name="Quran">Holy Quran</string>
-    <string name="Surah">Surah Index</string>
-    <string name="textview">txtview</string>
-    <string name="content">contentvalue</string>
-    <string name="surahayat">surahayat</string>
-    <string name="ayattrjama">ayattrjama</string>
+    <string name="app_name">Learn Quran</string>
+    <string name="fatiha">Fatiha</string>
+    <string name="the_opening">The Opening</string>
+    <string name="meccan_7_aya">Meccan 7 Aya</string>
+    <string name="fatiha2">Fatiha</string>
+    <string name="the_opening2">The Opening</string>
+    <string name="meccan_7_aya2">Meccan 7 Aya</string>
+    <string name="_1">1</string>
+    <string name="_7_ayah">7 ayah</string>
+    <string name="fatiah">Fatiah</string>
+    <string name="fatiah2">Fatiah</string>
 </resources>

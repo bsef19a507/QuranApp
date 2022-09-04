@@ -3,17 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project09/QuranApp/app/src/main/res/layout/all_surah_names.xml" value="0.2760416666666667" />
-        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project09/QuranApp/app/src/main/res/layout/header.xml" value="0.11018518518518519" />
-        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project09/QuranApp/app/src/main/res/layout/surah.xml" value="0.11018518518518519" />
-        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project09/QuranApp/app/src/main/res/layout/surah_customized_view.xml" value="0.11018518518518519" />
-        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project09/QuranApp/app/src/main/res/layout/surahname.xml" value="0.11018518518518519" />
-        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/all_surah_names.xml" value="0.23854166666666668" />
-        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/header.xml" value="0.22826086956521738" />
-        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/surah.xml" value="0.23854166666666668" />
-        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/surah_customized_view.xml" value="0.21105072463768115" />
-        <entry key="..\:/se/semester6/MC/Quran_App/app/src/main/res/layout/surahname.xml" value="0.23854166666666668" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/drawable-v24/ic_bg_row.xml" value="0.1825" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1825" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/drawable/bg_circle.xml" value="0.3505" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/layout-v26/activity_surah_detail.xml" value="0.17760416666666667" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/layout/activity_main.xml" value="0.33697916666666666" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/layout/activity_surah_detail.xml" value="0.35104166666666664" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/layout/surah_detail_layout.xml" value="0.5" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/layout/surah_layout.xml" value="0.5" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1825" />
+        <entry key="..\:/LALCHAND/DeskTopData/PUCIT/PUCIT-6TH-Semester-Courses/Mobile-Computing/Codes/Projects/Project11/AlQuran_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1825" />
       </map>
     </option>
   </component>
