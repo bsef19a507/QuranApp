@@ -3,7 +3,8 @@ package com.example.al_quran_android;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;  //Recyclerview imported here...
+
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -21,6 +22,9 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements SurahListener {
 
+    //Recyclerview implementation here...
+    
+    
     private RecyclerView recyclerView;
     private SurahViewModel surahViewModel;
     private SurahAdapter surahAdapter;
